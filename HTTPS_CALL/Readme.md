@@ -16,5 +16,8 @@
 </p>
 <p>
 <img src="5.png" width="250" />
+</p>
+<p>
 <img src="6.png" width="250" />
 </p>
+<p>This is the output obtained from the server on the new Activity.</p>
