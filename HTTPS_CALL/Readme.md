@@ -12,9 +12,8 @@
 <img src="3.png" width="250" />
 </p>
 <p>On clicking the Get Mac Address, we will get the MAC Address of the Device</p>
-<img src="4.png" width="250" />
-</p>
 <p>
+<img src="4.png" width="250" />
 <img src="5.png" width="250" />
 </p>
 <p>
